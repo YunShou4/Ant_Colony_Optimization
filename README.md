@@ -8,9 +8,9 @@
 
 写了一个*ant*的类，包含：
 
->clean_data
->select_next_city
->add_distance
+>clean_data  
+>select_next_city  
+>add_distance  
 >lets_go
 
 一共四个方法。
